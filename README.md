@@ -6,6 +6,7 @@ I also ~~try to~~ maintain a blog - you can find it on my website at [bacelarhen
 
 ## Some Knowledge
 ![image](https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux&logoColor=white)
+![image](https://img.shields.io/badge/Tools-Git-blue?style=flat-square&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Code-C-blue?style=flat-square&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Code-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
