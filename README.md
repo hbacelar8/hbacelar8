@@ -11,7 +11,7 @@ I also ~~try to~~ maintain a blog - you can find it on my website at [bacelarhen
 ![image](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Code-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/Code-Rust-blue?style=flat-square&logo=rust&logoColor=white)
-![image](https://img.shields.io/badge/Shell-Bash-blue?style=flat-square&logo=bash&logoColor=white)
+![image](https://img.shields.io/badge/Shell-Bash-blue?style=flat-square&logo=gnu-bash&logoColor=white)
 ![image](https://img.shields.io/badge/MCU-STM32-blue?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 ## Some Github Stats
