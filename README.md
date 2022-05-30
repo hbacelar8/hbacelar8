@@ -15,7 +15,7 @@ I also ~~try to~~ maintain a blog - you can find it on my website at [bacelarhen
 ![image](https://img.shields.io/badge/MCU-STM32-blue?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
 ## Some Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bacelarhenrique&show_icons=true&theme=onedark)](https://github.com/bacelarhenrique)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbacelar8&show_icons=true&theme=onedark)](https://github.com/hbacelar8)
 
 ## Where To Find Me?
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bacelarhenrique/)
