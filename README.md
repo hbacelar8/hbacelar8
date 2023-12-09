@@ -2,8 +2,6 @@
 
 I'm an electronic engineer working with embedded systems. I also spend some time working on some random personal projects in Python, Javascript, etc.
 
-I also ~~try to~~ maintain a blog - you can find it on my website at [bacelarhenrique.me](https://bacelarhenrique.me).
-
 ## Some Knowledge
 ![image](https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux&logoColor=white)
 ![image](https://img.shields.io/badge/Tools-Git-blue?style=flat-square&logo=git&logoColor=white)
