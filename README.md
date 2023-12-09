@@ -16,7 +16,3 @@ I also ~~try to~~ maintain a blog - you can find it on my website at [bacelarhen
 
 ## Some Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbacelar8&show_icons=true&theme=aura_dark)](https://github.com/hbacelar8)
-
-## Where To Find Me?
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bacelarhenrique/)
-[![image](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bacelarhenrique/)
